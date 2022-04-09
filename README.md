@@ -1,4 +1,4 @@
-# MP3 SBLGNT (slower rate)
+# MP3 SBLGNT (faster rate)
 
 Audio files provided here are created with <a href="https://github.com/eliranwong/UniqueBible">Unique Bible App</a> text-to-speech features.
 
